@@ -26,3 +26,10 @@ Here are some ideas to get you started:
 
 여기까지 제 인사와 소개를 읽어주셔서 감사합니다.  
 좋은 하루 되세요. 😄  
+
+
+Stack
+- HTML5, CSS, Javascript(ES6)
+- Vue.js (Nuxt.js), React.js
+- Vuex, Recoil
+- Scss
