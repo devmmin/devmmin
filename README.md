@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 좋은 하루 되세요. 😄  
 
 
-Stack
+### Stack
 - HTML5, CSS, Javascript(ES6)
 - Vue.js (Nuxt.js), React.js
 - Vuex, Recoil
