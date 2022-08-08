@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 - Vue.js (Nuxt.js), React.js
 - Vuex, Recoil
 - Scss
+
+### 취미
+- 천천히 오랜시간 호흡하며 즐기는 요가
+- 다른 사람의 창작물을 통해 생각해보고 배움의 시간을 갖는 것
