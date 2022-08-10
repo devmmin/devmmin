@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 좋은 하루 되세요. 😄  
 
 
-### Stack
+### SKills
 - HTML5, CSS (Scss), Javascript (ES6)
 - Vue.js (Nuxt.js), React.js
 - Vuex, Recoil
 - Vuetify, Chakra-ui
 - Apollo client
+- Eslint, Prettier
 
 ### Hobby
 - 천천히 오랜시간 호흡하며 즐기는 요가
