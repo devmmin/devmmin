@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo-appveyor&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo-appveyor&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo-appveyor&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo-appveyor&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo-appveyor&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo-appveyor&logo=ESLint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo-appveyor&logo=Prettier&logoColor=white"/>
