@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ### Stack
-- HTML5, CSS(Scss), Javascript(ES6)
+- HTML5, CSS (Scss), Javascript (ES6)
 - Vue.js (Nuxt.js), React.js
 - Vuex, Recoil
 - Vuetify, Chakra-ui
