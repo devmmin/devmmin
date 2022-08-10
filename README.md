@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 - HTML5, CSS, Javascript(ES6)
 - Vue.js (Nuxt.js), React.js
 - Vuex, Recoil
-- Scss
+- Scss 
+- Vuetify, Chakra-ui
+- Apollo client
 
 ### Hobby
 - 천천히 오랜시간 호흡하며 즐기는 요가
